@@ -103,6 +103,10 @@ The framework calculates key quantitative performance metrics:
 
 ---
 
+### 📊 Backtest Summary Visualization
+
+![Crypto Strategy Summary](crypto_strategy_summary_table.png)
+
 # 🧠 Strategy Implementation
 
 The current implementation uses an **EMA 9/20 pullback methodology**.
